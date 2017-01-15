@@ -1,0 +1,5 @@
+﻿<meta>
+    <info name="Trailer bug" description="Bug" author="Eraknelo" version="1.0" />
+    
+    <script src="Main.cs" type="server" lang="csharp" />
+</meta>
